@@ -1,6 +1,9 @@
 # supertidy
 PHP Super Tidy
-Just include supertidy.php and implement as follows
+
+Please feel free to modify this as you wish.
+
+Just include supertidy.php and implement as follows:
 
 $html = "<YOUR HTML>";
 
